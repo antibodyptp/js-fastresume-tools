@@ -1,0 +1,14 @@
+# Node dependencies
+node_modules
+
+# Build directory
+dist
+tsconfig.tsbuildinfo
+src/version.ts
+
+# Misc
+.DS_Store
+
+# Sensitive file
+torrents.db
+torrents.db.bak*

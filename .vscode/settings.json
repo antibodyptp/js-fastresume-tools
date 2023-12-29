@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "cSpell.words": [
+    "bencode",
+    "bencoded",
+    "fastresume",
+    "libtorrent",
+    "qbittorrent",
+    "resumedata"
+  ]
+}
